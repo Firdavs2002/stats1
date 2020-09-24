@@ -2,4 +2,4 @@ module github.com/Firdavs2002/stats1
 
 go 1.15
 
-require github.com/Firdavs2002/bank1/v2 v2.0.0-20200924213134-41617a2bae9d
+require github.com/Firdavs2002/bank1/v2 v2.0.0

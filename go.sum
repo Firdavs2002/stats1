@@ -1,3 +1,5 @@
 github.com/Firdavs2002/bank1 v1.0.0 h1:H1P3UJRoiIBywIVVCmJDmI70gC4JcpTZMj4C3yesepU=
 github.com/Firdavs2002/bank1/v2 v2.0.0-20200924213134-41617a2bae9d h1:7uq6tBUYalk+7qptVs4ihBatmHq8VGJcmRSNCa80IZw=
 github.com/Firdavs2002/bank1/v2 v2.0.0-20200924213134-41617a2bae9d/go.mod h1:aRhpWv3j1gZvWQEw6q6AcpU1PNnev+bQH0JImdVd8NY=
+github.com/Firdavs2002/bank1/v2 v2.0.0 h1:QVtmLeiEwEH+WmjV9vrFtlkDxdr545qUykVy4wxfS5w=
+github.com/Firdavs2002/bank1/v2 v2.0.0/go.mod h1:aRhpWv3j1gZvWQEw6q6AcpU1PNnev+bQH0JImdVd8NY=
