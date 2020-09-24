@@ -1,6 +1,3 @@
-github.com/Firdavs2002/bank1 v0.0.0-20200924195900-fb35c3f080f9 h1:zlXALN2qBCEaqV5xDUki0aNzTkekkuzB4BKq56d+0ow=
-github.com/Firdavs2002/bank1 v0.0.0-20200924195900-fb35c3f080f9/go.mod h1:BP+ILSUzuvxzq+bHbXLhNI/1nJdFQ6WpZwx10BraDxo=
-github.com/Firdavs2002/bank1 v0.0.0-20200924200206-36898b2f302b h1:35RWW3qeN/LRjDo9EwPeUc/in6+VOdSQD/IaK+2Hf48=
-github.com/Firdavs2002/bank1 v0.0.0-20200924200206-36898b2f302b/go.mod h1:BP+ILSUzuvxzq+bHbXLhNI/1nJdFQ6WpZwx10BraDxo=
-github.com/Firdavs2002/bank1 v0.0.0-20200924201913-6334754e21b9 h1:hhCeqw4GlNDd+umtp/t5G5w1RZDmEw/pExPdwPvtr6c=
-github.com/Firdavs2002/bank1 v0.0.0-20200924201913-6334754e21b9/go.mod h1:BP+ILSUzuvxzq+bHbXLhNI/1nJdFQ6WpZwx10BraDxo=
+github.com/Firdavs2002/bank1 v1.0.0 h1:H1P3UJRoiIBywIVVCmJDmI70gC4JcpTZMj4C3yesepU=
+github.com/Firdavs2002/bank1/v2 v2.0.0-20200924213134-41617a2bae9d h1:7uq6tBUYalk+7qptVs4ihBatmHq8VGJcmRSNCa80IZw=
+github.com/Firdavs2002/bank1/v2 v2.0.0-20200924213134-41617a2bae9d/go.mod h1:aRhpWv3j1gZvWQEw6q6AcpU1PNnev+bQH0JImdVd8NY=
