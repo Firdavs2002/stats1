@@ -52,3 +52,19 @@ func CategoriesAvg(payments []types.Payment) map[types.Category]types.Money {
 
 	return result
 }
+
+//PeriodsDynamic расчитовает сумму платежа по категории
+func PeriodsDynamic(first map[types.Category]types.Money, second map[types.Category]types.Money) map[types.Category]types.Money {
+
+	want := map[types.Category]types.Money{}
+
+	for w := range second {
+		want[w] += second[w]
+	}
+
+	for w := range first {
+		want[w] -= first[w]
+	}
+
+	return want
+}
